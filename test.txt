@@ -1,3 +1,6 @@
 Hallo Git!
 Zwischen test
 zweiter Test nach add und commit Text hinzugefügt
+
+Wir probieren es nocheinmal 
+jetzt wird add und commit durchgeführt
