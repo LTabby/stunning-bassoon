@@ -4,3 +4,5 @@ zweiter Test nach add und commit Text hinzugefügt
 
 Wir probieren es nocheinmal 
 jetzt wird add und commit durchgeführt
+
+Diese Änderung ist nun nach dem der commit Befehl ausgeführt wurde.
